@@ -1,4 +1,4 @@
-# Desafio-3-PUC2020
+# Desafio-3-PUC2020 :yellow_heart:
 
 Parabéns, chegamos ao desafio final, para isso iremos ver se você é acima da média, mas você mesmo vai calcular isso hehe.
 
